@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Django specific
+db.sqlite3
+media/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Synced lyrics
+.syncedlyrics/
